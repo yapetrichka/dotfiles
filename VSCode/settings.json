@@ -1,0 +1,21 @@
+{
+    "security.workspace.trust.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "JetBrains Mono NL, MonoLisa, Consolas, 'Courier New', monospace",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "explorer.compactFolders": false,
+    "dart.flutterSdkPath": "C:\\tools\\flutter",
+    "workbench.colorTheme": "GitHub Light",
+    "workbench.startupEditor": "none",
+    "claudeCode.preferredLocation": "panel",
+
+    "[dart]": {
+    "editor.rulers": [120],
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  }
+}

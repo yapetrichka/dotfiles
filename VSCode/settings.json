@@ -9,6 +9,7 @@
     "dart.flutterSdkPath": "C:\\tools\\flutter",
     "workbench.colorTheme": "GitHub Light",
     "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": false,
     "claudeCode.preferredLocation": "panel",
 
     "[dart]": {
